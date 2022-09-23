@@ -86,3 +86,11 @@ namespace TextEditor
 
     }
 }
+
+/*
+DESAFIOS PARA ESSE PROJETO
+- Tratamento de erros;
+- Tratamento do ultimo enter;
+- Adicionar mais funções;
+- Melhorar o código;
+*/
