@@ -1,0 +1,15 @@
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\bin\Debug\net6.0\TextEditor.exe
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\bin\Debug\net6.0\TextEditor.deps.json
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\bin\Debug\net6.0\TextEditor.runtimeconfig.json
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\bin\Debug\net6.0\TextEditor.dll
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\bin\Debug\net6.0\TextEditor.pdb
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.csproj.AssemblyReference.cache
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfoInputs.cache
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.AssemblyInfo.cs
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.csproj.CoreCompileInputs.cache
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.dll
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\refint\TextEditor.dll
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.pdb
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\TextEditor.genruntimeconfig.cache
+C:\Csharp\Projetos Balta-IO\EditorDeTextos\TextEditor\obj\Debug\net6.0\ref\TextEditor.dll
